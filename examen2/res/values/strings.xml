@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">horario</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">VI Semestre</string>
+    <string name="tituloa">Legislacion Laboral</string>
+    <string name="titulob">Liderazgo y Trabajo</string>
+    <string name="tituloc">Proyecto Empresarial</string>
+    <string name="titulod">taller de Prog.Web</string>
+    <string name="tituloe">Comercio Electronico</string>
+    <string name="titulof">Aplicaciones Moviles</string>
+    <string name="titulog">prod.audivisual</string>
+    <string name="a">legislacion laboral</string>
+</resources>
